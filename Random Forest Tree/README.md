@@ -3,7 +3,7 @@
 This app predicts the risk of heart disease using a Random Forest classifier.
 
 ## 🔗 Live Demo
-**Streamlit URL:** [https://your-app-rf.streamlit.app](https://your-app-rf.streamlit.app)
+**Streamlit URL:** [https://rft-heart-risk-check.streamlit.app/](https://rft-heart-risk-check.streamlit.app/)
 
 ## 📊 Dataset
 - Cleveland Heart Disease (TensorFlow)
