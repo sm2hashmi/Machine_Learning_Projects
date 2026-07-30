@@ -3,7 +3,7 @@
 This app predicts whether a breast tumor is malignant or benign using a KNN classifier.
 
 ## 🔗 Live Demo
-**Streamlit URL:** [https://your-app-knn.streamlit.app](https://your-app-knn.streamlit.app)
+**Streamlit URL:** [https://knn-cancer-check.streamlit.app/](https://knn-cancer-check.streamlit.app/)
 
 ## 📊 Dataset
 - Wisconsin Breast Cancer (sklearn)
