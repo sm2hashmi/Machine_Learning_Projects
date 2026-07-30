@@ -12,9 +12,9 @@ This repository contains **three separate Streamlit web applications** for medic
 
 ## 🚀 Live Demos
 
-- **Random Forest (Heart Disease):** [https://your-app-rf.streamlit.app](https://your-app-rf.streamlit.app)
-- **KNN (Breast Cancer):** [https://your-app-knn.streamlit.app](https://your-app-knn.streamlit.app)
-- **Decision Tree (Diabetes):** [https://your-app-dt.streamlit.app](https://your-app-dt.streamlit.app)
+- **Random Forest (Heart Disease):** [https://rft-heart-risk-check.streamlit.app/](https://rft-heart-risk-check.streamlit.app/)
+- **KNN (Breast Cancer):** [https://knn-cancer-check.streamlit.app/](https://knn-cancer-check.streamlit.app/)
+- **Decision Tree (Diabetes):** [https://dt-diabetes-risk-analyzer.streamlit.app/](https://dt-diabetes-risk-analyzer.streamlit.app/)
 
 *(Replace the placeholder URLs above with your actual Streamlit Cloud links after deployment.)*
 
