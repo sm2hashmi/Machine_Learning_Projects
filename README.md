@@ -24,10 +24,11 @@ This repository contains **three separate Streamlit web applications** for medic
    ```bash
    git clone https://github.com/sm2hashmi/Machine_Learning_Projects.git
    cd Machine_Learning_Projects
-Ensure that all dependencies are fulfilled by running:
-```bash
-pip install -r requirements.txt
-```
+   ```
+   Ensure that all dependencies are fulfilled by running:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 2. Within are three sub-folders; Random Forest Tree, Decision Tree and KNN. Enter into any one of those folders like this:
    ```bash
