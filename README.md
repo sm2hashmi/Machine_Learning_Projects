@@ -23,4 +23,4 @@ This repository contains **three separate Streamlit web applications** for medic
 1. Clone the repository:
    ```bash
    git clone https://github.com/sm2hashmi/Machine_Learning_Projects.git
-   cd Three-ML-Projects
+   cd Machine_Learning_Projects
